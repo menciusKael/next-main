@@ -12,6 +12,10 @@ yarn dev
 pnpm dev
 # or
 bun dev
+# if want change port
+npx run next -port 4000
+# Print information related to the current system
+npx next info
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
