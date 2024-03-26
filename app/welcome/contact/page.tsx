@@ -1,4 +1,1 @@
-const COM = () => {
-  return <span> contact me </span>;
-};
-export default COM;
+export default () => <h1>About us</h1>;

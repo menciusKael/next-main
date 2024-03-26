@@ -6,7 +6,7 @@ import Image from "next/image";
 const COM = () => {
   return (
     <div>
-      <h1> Home Page </h1>
+      <h1> Root Home Page </h1>
       <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>Explore Next.js.</p>
       <Image
         className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
